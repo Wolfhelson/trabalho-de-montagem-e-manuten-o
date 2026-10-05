@@ -9,37 +9,37 @@
 
 ###  1. Instalar a placa-mãe.
 
-![placa-mãe instalada](imagens\montagem\img_10.jpeg)
+![placa-mãe instalada](\imagens\montagem\img_10.jpeg)
 ###  2. Conectar periféricos on-board (conectores dos barramentos externos).
 
 
 
 ###   3. Instalar processador na placa-mãe.
 
-![instalando o processador](imagens\montagem\img_6.jpeg)
+![instalando o processador](\imagens\montagem\img_6.jpeg)
 
 ###   4. Instalar dissipador e a ventoinha (cooler).
 
-![cooler instalado](imagens\montagem\img_12.jpeg)
+![cooler instalado](\imagens\montagem\img_12.jpeg)
 
 
 
-![dissipador instalado](imagens\montagem\img_13.png)
+![dissipador instalado](\imagens\montagem\img_13.png)
 
 ###   5. Instalar memória RAM na placa-mãe.
 
-![memoria ram instalada](imagens\montagem\img_8.jpeg)
+![memoria ram instalada](\imagens\montagem\img_8.jpeg)
 
 ###   6. Instalar placa de vídeo.
 
 
 ###   7. Fixação das unidades de armazenamento secundário (SSDs, HDDs, unidades ópticas).
 
-![dispositivo optico sendo instalado](imagens\desmontagem\img1.jpeg)
+![dispositivo optico sendo instalado](\imagens\desmontagem\img1.jpeg)
 
 ###   8. Instalar fonte de alimentação e os conectores da fonte.
 
-![fonte sendo instalada](imagens\montagem\img_11.jpeg)
+![fonte sendo instalada](\imagens\montagem\img_11.jpeg)
 
 ## Qual é o passo a passo da desmontagem?
 
@@ -51,7 +51,7 @@
 
 ### 3. Retirar fonte de alimentação do gabinete.
 
-![fonte de alimentação](imagens\desmontagem\img2.jpeg)
+![fonte de alimentação](\imagens\desmontagem\img2.jpeg)
 
 ### 4. Desinstalar placas de vídeo e de som off-board.
 
@@ -68,19 +68,19 @@
 
 ### 8. Desafixar unidades de armazenamento secundário (HDDs, SSDs, dispositivos ópticos etc.)
 
-![dispositivo optico removido](imagens\montagem\img_4.jpeg)
+![dispositivo optico removido](\imagens\montagem\img_4.jpeg)
 
 ### 9. Desinstalar memória RAM na placa-mãe.
 
-![memoria ram sendo retirada](imagens\desmontagem\img_9.jpeg)
+![memoria ram sendo retirada](\imagens\desmontagem\img_9.jpeg)
 
 ### 10. Desinstalar dissipador de calor e ventoinha dos processador.
 
-![dissipador de calor sendo removido](imagens\desmontagem\img3.jpeg)
+![dissipador de calor sendo removido](\imagens\desmontagem\img3.jpeg)
 
 ### 11. Desinstalar processador na placa-mãe.
 
-![processador já retirado](imagens\desmontagem\img_7.jpeg)
+![processador já retirado](\imagens\desmontagem\img_7.jpeg)
 
 ### 12. Realizar a limpeza.
 
